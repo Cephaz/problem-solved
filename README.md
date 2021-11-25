@@ -1,4 +1,4 @@
 # Install VM
 
-[x] KDE PLASMA
+- [x] KDE PLASMA
 
