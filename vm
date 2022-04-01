@@ -1,3 +1,9 @@
+Install VM
+add user to sudoers group
+gpasswd -a ${USER} sudo
+apt-get update && apt-get upgrade
+apt-get install vim
+
 fix VirtualBox in MacOs
 sudo kextload -b org.virtualbox.kext.VBoxDrv
 sudo kextload -b org.virtualbox.kext.VBoxNetFlt
